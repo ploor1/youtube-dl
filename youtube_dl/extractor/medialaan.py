@@ -27,7 +27,7 @@ class MedialaanIE(GigyaBaseIE):
                         (?P<id>[^/?#&]+)
                     '''
     _NETRC_MACHINE = 'medialaan'
-    _APIKEY = '3_HZ0FtkMW_gOyKlqQzW5_0FHRC7Nd5XpXJZcDdXY4pk5eES2ZWmejRW5egwVm4ug-'
+    _APIKEY = 'vtm-b7sJGrKwMJj0VhdZvqLDFvgkJF5NLjNY'
     _SITE_TO_APP_ID = {
         'vtm': 'vtm_watch',
         'q2': 'q2',
